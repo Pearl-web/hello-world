@@ -2,4 +2,4 @@
 Revising github
 
 
-Hello my naem is Pearl
+Hello my name is Pearl
